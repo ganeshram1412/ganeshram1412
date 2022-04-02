@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh Ram working as Senior Software Engineer.
 - 👀 I’m interested in learning about software development and contributing to the community.
-- 🌱 I’m currently learning React JS, pracitcing in AWS and doing Competetive programming
+- 🌱 I’m currently improving my Problem solving skills by doing doing Competetive programming
 - 💞️ I’m looking to collaborate on Java based project.
 - 📫 How to reach me Email: ganeshram1412@gmail.com
 
